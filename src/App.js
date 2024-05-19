@@ -1,9 +1,9 @@
-import ParkingPage from "./pages/ParkingPage";
+import LandingPage from "./pages/LandingPage";
 
 function App() {
   return (
     <div className="App">
-      <ParkingPage />
+      <LandingPage />
     </div>
   );
 }
