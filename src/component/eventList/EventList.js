@@ -9,24 +9,24 @@ const EventList = () => {
             <div className="col-md-6 col-sm-6 equal-height">
               <div className="item">
                 <div className="thumb">
-                  <img src="assets/img/800x600.png" alt="Thumb" />
+                  <img src="assets/img/eid2024-bbq.png" alt="eid2024-bbq" />
                 </div>
                 <div className="info">
                   <div className="info-box">
                     <div className="date">
-                      <strong>16</strong> Apr, 2020
+                      <strong>16</strong> June, 2024
                     </div>
                     <div className="content">
                       <h4>
-                        <a href="/#">Social Science & Humanities</a>
+                        <a href="/#">Eid el Adha BBQ</a>
                       </h4>
                       <ul>
                         <li>
-                          <i className="fas fa-clock"></i> 8:00 - 16:00
+                          <i className="fas fa-clock"></i> 16:00 - 20:00
                         </li>
                         <li>
-                          <i className="fas fa-map-marked-alt"></i> California,
-                          TX 70240
+                          <i className="fas fa-map-marked-alt"></i> Garden,
+                          August- Bebel- Str.15234 Frankfurt (Oder)
                         </li>
                       </ul>
                       <p>
@@ -43,7 +43,7 @@ const EventList = () => {
                           <i className="fas fa-chart-bar"></i> Book Now
                         </a>
                         <a href="/#">
-                          <i className="fas fa-ticket-alt"></i> 126 Available
+                          <i className="fas fa-ticket-alt"></i> 40 Spots
                         </a>
                       </div>
                     </div>
@@ -52,7 +52,7 @@ const EventList = () => {
               </div>
             </div>
 
-            <div className="col-md-6 col-sm-6 equal-height">
+            {/* <div className="col-md-6 col-sm-6 equal-height">
               <div className="item">
                 <div className="thumb">
                   <img src="assets/img/800x600.png" alt="Thumb" />
@@ -188,7 +188,7 @@ const EventList = () => {
                   </div>
                 </div>
               </div>
-            </div>
+            </div> */}
           </div>
           {/* <div className="more-btn col-md-12 text-center">
             <a href="/#" className="btn btn-theme effect btn-md">

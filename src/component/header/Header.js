@@ -44,7 +44,12 @@ const Header = () => {
               <i className="fa fa-bars"></i>
             </button>
             <a className="navbar-brand" href="index.html">
-              <img src="assets/img/logo-light.png" alt="Logo" width={"85px"} />
+              <img
+                src="assets/img/logo-light.png"
+                alt="Logo"
+                width={"85px"}
+                height={"185px"}
+              />
             </a>
           </div>
           <div className="collapse navbar-collapse" id="navbar-menu">

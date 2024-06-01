@@ -13,7 +13,7 @@ const ContactInfo = () => {
                 </div>
                 <div className="info">
                   <h4>Call Us</h4>
-                  <span>+324 119 2343</span>
+                  <span>TBD</span>
                 </div>
               </div>
             </div>
@@ -24,7 +24,7 @@ const ContactInfo = () => {
                 </div>
                 <div className="info">
                   <h4>Address</h4>
-                  <span>California, TX 70240</span>
+                  <span>Große Scharrnstraße 59, 15230 Frankfurt (Oder)</span>
                 </div>
               </div>
             </div>
@@ -35,7 +35,7 @@ const ContactInfo = () => {
                 </div>
                 <div className="info">
                   <h4>Email Us</h4>
-                  <span>info@yourdomain.com</span>
+                  <span>euv228927@europa-uni.de</span>
                 </div>
               </div>
             </div>

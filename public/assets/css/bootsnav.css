@@ -1776,6 +1776,8 @@ nav.navbar.bootsnav {
 
   .navbar-brand > img {
     height: 40px !important;
+    width: 40px !important;
+    margin-top: 5px;
   }
 
   nav.navbar.bootsnav.navbar-transparent.pad-top {
