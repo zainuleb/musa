@@ -1,6 +1,6 @@
 import React from "react";
-import { Link } from "react-router-dom";
-const ContactBanner = () => {
+
+const EventBanner = () => {
   return (
     <div
       className="breadcrumb-area shadow dark bg-fixed text-center text-light"
@@ -9,20 +9,17 @@ const ContactBanner = () => {
       <div className="container">
         <div className="row">
           <div className="col-lg-12 col-md-12">
-            <h1>Contact Us</h1>
+            <h1>Latest Event</h1>
             <ul className="breadcrumb">
               <li>
-                <Link to="/">
-                  <a href="/#">
-                    <i className="fas fa-home"></i>
-                    Home
-                  </a>
-                </Link>
+                <a href="/#">
+                  <i className="fas fa-home"></i> Home
+                </a>
               </li>
               <li>
                 <a href="/#">Page</a>
               </li>
-              <li className="active">Contact</li>
+              <li className="active">Event</li>
             </ul>
           </div>
         </div>
@@ -31,4 +28,4 @@ const ContactBanner = () => {
   );
 };
 
-export default ContactBanner;
+export default EventBanner;

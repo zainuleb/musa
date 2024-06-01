@@ -24,7 +24,7 @@ const About = () => {
                 hours forth its use. Up whole of fancy ye quiet do. Justice
                 fortune no to is if winding morning forming.
               </p>
-              <a className="btn circle btn-theme effect btn-md" href="#">
+              <a className="btn circle btn-theme effect btn-md" href="/#">
                 Know More
               </a>
             </div>

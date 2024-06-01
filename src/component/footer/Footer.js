@@ -37,37 +37,37 @@ const Footer = () => {
                 <h4>Categories</h4>
                 <ul>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> All Courses
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Event
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Digital Marketing
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Design & Branding
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Storytelling
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Education
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Geography
                     </a>
                   </li>
@@ -80,32 +80,32 @@ const Footer = () => {
                 <h4>Support</h4>
                 <ul>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Documentation
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Forums
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Language Packs
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Release Status
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> LearnPress
                     </a>
                   </li>
                   <li>
-                    <a href="#">
+                    <a href="/#">
                       <i className="ti-angle-right"></i> Feedback
                     </a>
                   </li>
@@ -119,12 +119,12 @@ const Footer = () => {
                 <ul>
                   <li>
                     <div className="thumb">
-                      <a href="#">
+                      <a href="/#">
                         <img src="assets/img/800x800.png" alt="Thumb" />
                       </a>
                     </div>
                     <div className="info">
-                      <a href="#">
+                      <a href="/#">
                         Subjects allied to Creative arts and design
                       </a>
                       <ul className="meta">
@@ -141,12 +141,12 @@ const Footer = () => {
                   </li>
                   <li>
                     <div className="thumb">
-                      <a href="#">
+                      <a href="/#">
                         <img src="assets/img/800x800.png" alt="Thumb" />
                       </a>
                     </div>
                     <div className="info">
-                      <a href="#">Business and administrative subjects</a>
+                      <a href="/#">Business and administrative subjects</a>
                       <ul className="meta">
                         <li>
                           <i className="fas fa-star"></i>
@@ -161,12 +161,12 @@ const Footer = () => {
                   </li>
                   <li>
                     <div className="thumb">
-                      <a href="#">
+                      <a href="/#">
                         <img src="assets/img/800x800.png" alt="Thumb" />
                       </a>
                     </div>
                     <div className="info">
-                      <a href="#">Business and administrative subjects</a>
+                      <a href="/#">Business and administrative subjects</a>
                       <ul className="meta">
                         <li>
                           <i className="fas fa-star"></i>
@@ -191,19 +191,19 @@ const Footer = () => {
             <div className="col-md-6">
               <p>
                 &copy; Copyright 2020. All Rights Reserved by
-                <a href="#"> validtemplates</a>
+                <a href="/#"> validtemplates</a>
               </p>
             </div>
             <div className="col-md-6 text-right link">
               <ul>
                 <li>
-                  <a href="#">Terms of user</a>
+                  <a href="/#">Terms of user</a>
                 </li>
                 <li>
-                  <a href="#">License</a>
+                  <a href="/#">License</a>
                 </li>
                 <li>
-                  <a href="#">Support</a>
+                  <a href="/#">Support</a>
                 </li>
               </ul>
             </div>

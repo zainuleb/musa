@@ -28,7 +28,7 @@ const Banner = () => {
                         <a
                           data-animation="animated fadeInDown"
                           className="btn btn-dark border btn-md"
-                          href="#"
+                          href="/#"
                         >
                           Learn More
                         </a>
@@ -58,7 +58,7 @@ const Banner = () => {
                         <a
                           data-animation="animated fadeInUp"
                           className="btn btn-dark border btn-md"
-                          href="#"
+                          href="/#"
                         >
                           View Courses
                         </a>
