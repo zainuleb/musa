@@ -1051,7 +1051,7 @@ nav.navbar.bootsnav.sticked .attr-nav.social li {
 body, 
 .banner-area, 
 .banner-area div {
-  height: 100%;
+  height: 70vh;
 }
 
 .banner-area.auto-height, 

@@ -140,7 +140,7 @@ nav.navbar.bootsnav {
 }
 
 nav.bg-dark.navbar.bootsnav {
-  background-color: #1c1c1c;
+  background-color: #01226B;
   border: medium none !important;
   margin: 0;
 }
@@ -1057,7 +1057,7 @@ nav.navbar.bootsnav {
   }
 
   nav.navbar.bootsnav .navbar-brand {
-    padding: 20px 15px;
+    padding: 10px 15px;
   }
 
   nav.navbar.bootsnav ul.nav > li.active > a {

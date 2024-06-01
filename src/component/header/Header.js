@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+
 const Header = () => {
   return (
     <header id="home">
@@ -24,7 +25,7 @@ const Header = () => {
           </div>
         </div>
         <div className="container">
-          <div className="attr-nav">
+          {/* <div className="attr-nav">
             <ul>
               <li className="search">
                 <a href="/#">
@@ -32,7 +33,7 @@ const Header = () => {
                 </a>
               </li>
             </ul>
-          </div>
+          </div> */}
           <div className="navbar-header">
             <button
               type="button"
@@ -43,7 +44,7 @@ const Header = () => {
               <i className="fa fa-bars"></i>
             </button>
             <a className="navbar-brand" href="index.html">
-              <img src="assets/img/logo-light.png" alt="Logo" />
+              <img src="assets/img/logo-light.png" alt="Logo" width={"85px"} />
             </a>
           </div>
           <div className="collapse navbar-collapse" id="navbar-menu">

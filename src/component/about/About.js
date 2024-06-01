@@ -8,21 +8,19 @@ const About = () => {
           <div className="about-items">
             <div className="col-md-6 left-info">
               <h2>
-                <span>Welcome !</span>We're Global Education Academy
+                <span>Welcome !</span>We're a Vibrant Community
               </h2>
               <blockquote>
-                A man who has never gone to school may steal from a freight car;
-                but if he has a university education, he may steal the whole
-                railroad.
+                Join a vibrant community dedicated to fostering a supportive
+                environment for Muslim students at Viadrina University. Engage
+                in enriching activities, cultural events, and educational
+                programs that celebrate our faith and heritage.
               </blockquote>
             </div>
             <div className="col-md-6 right-info">
               <p>
-                Advantages boisterous day excellence boy. Out between our two
-                waiting wishing. Pursuit he he garrets greater towards amiable
-                so placing. Nothing off how norland delight. Abode shy shade she
-                hours forth its use. Up whole of fancy ye quiet do. Justice
-                fortune no to is if winding morning forming.
+                Whether you seek spiritual growth, academic support, or a sense
+                of belonging, the MuSA is here to help you thrive.
               </p>
               <a className="btn circle btn-theme effect btn-md" href="/#">
                 Know More

@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Banner = () => {
   return (
@@ -11,7 +12,7 @@ const Banner = () => {
         <div className="carousel-inner carousel-zoom">
           <div
             className="item active bg-cover"
-            style={{ backgroundImage: "url(assets/img/2440x1578.png)" }}
+            style={{ backgroundImage: "url(assets/img/banner-image.jpg)" }}
           >
             <div className="box-table">
               <div className="box-cell">
@@ -20,18 +21,16 @@ const Banner = () => {
                     <div className="col-md-8">
                       <div className="content">
                         <h4 data-animation="animated fadeInUp">
-                          Welcome to Educom
+                          Muslim Student Association - Viadrina
                         </h4>
-                        <h2 data-animation="animated fadeInLeft">
-                          The best way to learn
-                        </h2>
-                        <a
-                          data-animation="animated fadeInDown"
+                        <h2 data-animation="animated fadeInLeft">MuSA</h2>
+                        <Link
+                          to="/membership"
                           className="btn btn-dark border btn-md"
-                          href="/#"
+                          data-animation="animated fadeInDown"
                         >
-                          Learn More
-                        </a>
+                          Become a Member
+                        </Link>
                       </div>
                     </div>
                   </div>
@@ -41,7 +40,7 @@ const Banner = () => {
           </div>
           <div
             className="item bg-cover"
-            style={{ backgroundImage: "url(assets/img/2440x1578.png)" }}
+            style={{ backgroundImage: "url(assets/img/banner-image-2.jpg)" }}
           >
             <div className="box-table">
               <div className="box-cell">
@@ -50,18 +49,18 @@ const Banner = () => {
                     <div className="col-md-8">
                       <div className="content">
                         <h4 data-animation="animated fadeInUp">
-                          Upgrade your knowledge
+                          Contribute your skills to Projects and initiatives.
                         </h4>
                         <h2 data-animation="animated fadeInLeft">
-                          The new way of learning
+                          Volunteer Opportunities
                         </h2>
-                        <a
-                          data-animation="animated fadeInUp"
+                        <Link
+                          to="/membership"
                           className="btn btn-dark border btn-md"
-                          href="/#"
+                          data-animation="animated fadeInDown"
                         >
-                          View Courses
-                        </a>
+                          Become a Member
+                        </Link>
                       </div>
                     </div>
                   </div>
