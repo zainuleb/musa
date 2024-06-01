@@ -1,10 +1,10 @@
 import React from "react";
+import MembershipsForm from "../component/membershipsForm/MembershipsForm";
 
 const Membership = () => {
   return (
     <div>
-      Membership
-      <p>How to join Membership benefits Testimonials from current members</p>
+  <MembershipsForm/>
     </div>
   );
 };
