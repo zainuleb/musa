@@ -4,7 +4,7 @@ const ContactBanner = () => {
   return (
     <div
       className="breadcrumb-area shadow dark bg-fixed text-center text-light"
-      style={{ backgroundImage: "url(assets/img/2440x1578.png)" }}
+      style={{ backgroundImage: "url(assets/img/contact-us-banner.jpg)" }}
     >
       <div className="container">
         <div className="row">
@@ -13,14 +13,15 @@ const ContactBanner = () => {
             <ul className="breadcrumb">
               <li>
                 <Link to="/">
-                  <a href="/#">
-                    <i className="fas fa-home"></i>
-                    Home
-                  </a>
+                  <i className="fas fa-home"></i>
+                  Home
                 </Link>
               </li>
               <li>
-                <a href="/#">Page</a>
+                <Link to="/membership">
+                  <i className="fas fa-clipboard-list"></i>
+                  Membership
+                </Link>
               </li>
               <li className="active">Contact</li>
             </ul>

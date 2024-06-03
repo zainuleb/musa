@@ -1,10 +1,11 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const EventBanner = () => {
   return (
     <div
       className="breadcrumb-area shadow dark bg-fixed text-center text-light"
-      style={{ backgroundImage: "url(assets/img/2440x1578.png)" }}
+      style={{ backgroundImage: "url(assets/img/events-banner.jpg)" }}
     >
       <div className="container">
         <div className="row">
@@ -12,12 +13,14 @@ const EventBanner = () => {
             <h1>Latest Event</h1>
             <ul className="breadcrumb">
               <li>
-                <a href="/#">
+                <Link to="/">
                   <i className="fas fa-home"></i> Home
-                </a>
+                </Link>
               </li>
               <li>
-                <a href="/#">Page</a>
+                <Link to="/membership">
+                  <i className="fas fa-clipboard-list"></i> Membership
+                </Link>
               </li>
               <li className="active">Event</li>
             </ul>

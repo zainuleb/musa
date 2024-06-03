@@ -6,32 +6,44 @@ const Footer = () => {
       <div className="container">
         <div className="f-items default-padding">
           <div className="row">
-            <div className="col-md-4 col-sm-6 item equal-height">
+            <div className="col-md-6 col-sm-6 item equal-height">
               <div className="f-item about">
                 <h4>About</h4>
                 <p>
-                  Excellence decisively nay man yet impression for contrasted
-                  remarkably. There spoke happy for you are out. Fertile how old
-                  address.
+                  The Muslim Student Association (MuSA) at Viadrina University
+                  Frankfurt Oder is a vibrant community dedicated to supporting
+                  and enriching the lives of Muslim students on campus. Our
+                  mission is to foster an inclusive and welcoming environment
+                  where students can grow spiritually, academically, and
+                  socially. We organize a variety of events, from cultural
+                  celebrations and educational workshops to community service
+                  projects and interfaith dialogues. MuSA is committed to
+                  promoting understanding, respect, and unity both within our
+                  university and the broader community.
                 </p>
                 <ul>
                   <li>
                     <p>
                       Email
                       <span>
-                        <a href="mailto:info@example.com">info@example.com</a>
+                        <a href="mailto:euv228927@europa-uni.de">
+                          euv228927@europa-uni.de
+                        </a>
                       </span>
                     </p>
                   </li>
                   <li>
                     <p>
-                      Office <span>123 6th St. Melbourne, FL 32904</span>
+                      Office
+                      <span>
+                        Große Scharrnstraße 59, 15230 Frankfurt (Oder)
+                      </span>
                     </p>
                   </li>
                 </ul>
               </div>
             </div>
-
+            {/* 
             <div className="col-md-2 col-sm-6 item equal-height">
               <div className="f-item link">
                 <h4>Categories</h4>
@@ -111,12 +123,12 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-            </div>
+            </div> */}
 
             <div className="col-md-4 col-sm-6 item equal-height">
               <div className="f-item popular-courses">
-                <h4>Popular Courses</h4>
-                <ul>
+                <h4>Popular Posts</h4>
+                {/* <ul>
                   <li>
                     <div className="thumb">
                       <a href="/#">
@@ -179,7 +191,7 @@ const Footer = () => {
                       </ul>
                     </div>
                   </li>
-                </ul>
+                </ul> */}
               </div>
             </div>
           </div>
@@ -188,13 +200,13 @@ const Footer = () => {
       <div className="footer-bottom">
         <div className="container">
           <div className="row">
-            <div className="col-md-6">
+            <div className="col-md-12">
               <p>
-                &copy; Copyright 2020. All Rights Reserved by
-                <a href="/#"> validtemplates</a>
+                &copy; Copyright 2024. Rights Reserved by
+                <a href="https://www.linkedin.com/in/zainuleb/"> zainuleb</a>
               </p>
             </div>
-            <div className="col-md-6 text-right link">
+            {/* <div className="col-md-6 text-right link">
               <ul>
                 <li>
                   <a href="/#">Terms of user</a>
@@ -206,7 +218,7 @@ const Footer = () => {
                   <a href="/#">Support</a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

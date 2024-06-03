@@ -359,8 +359,8 @@ input {
 }
 
 .default-padding {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
 .default-padding-top {
@@ -3362,7 +3362,6 @@ div#bootcarousel {
 .course-details-area ul.nav-pills {
   background: transparent;
   margin-top: 50px;
-  margin-bottom: 45px;
   border: 1px solid #e7e7e7;
   display: inline-block;
 }

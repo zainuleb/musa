@@ -1,12 +1,8 @@
 import React from "react";
+import Register from "../component/register/Register";
 
 const Membership = () => {
-  return (
-    <div>
-      Membership
-      <p>How to join Membership benefits Testimonials from current members</p>
-    </div>
-  );
+  return <Register />;
 };
 
 export default Membership;

@@ -30,10 +30,10 @@ const EventList = () => {
                         </li>
                       </ul>
                       <p>
-                        Attachment astonished to on appearance imprudence so
+                        {/* Attachment astonished to on appearance imprudence so
                         collecting in excellence. Tiled way blind lived whose
                         new. The for fully had she there leave merit enjoy
-                        forth.
+                        forth. */}
                       </p>
                       <div className="bottom">
                         <a
@@ -52,7 +52,7 @@ const EventList = () => {
               </div>
             </div>
 
-            {/* <div className="col-md-6 col-sm-6 equal-height">
+            <div className="col-md-6 col-sm-6 equal-height">
               <div className="item">
                 <div className="thumb">
                   <img src="assets/img/800x600.png" alt="Thumb" />
@@ -60,44 +60,44 @@ const EventList = () => {
                 <div className="info">
                   <div className="info-box">
                     <div className="date">
-                      <strong>08</strong> Jul, 2020
+                      <strong>22</strong> April, 2024
                     </div>
                     <div className="content">
                       <h4>
-                        <a href="/#">Secondary Schools United Nations</a>
+                        <a href="/#">Eid El Fitr</a>
                       </h4>
                       <ul>
                         <li>
-                          <i className="fas fa-clock"></i> 10:00 - 14:00
+                          <i className="fas fa-clock"></i> 14:00 - 16:00
                         </li>
                         <li>
-                          <i className="fas fa-map-marked-alt"></i> California,
-                          TX 70240
+                          <i className="fas fa-map-marked-alt"></i> Große
+                          Scharrnstraße 59 15230 Frankfurt (Oder)
                         </li>
                       </ul>
                       <p>
-                        Attachment astonished to on appearance imprudence so
+                        {/* Attachment astonished to on appearance imprudence so
                         collecting in excellence. Tiled way blind lived whose
                         new. The for fully had she there leave merit enjoy
-                        forth.
+                        forth. */}
                       </p>
                       <div className="bottom">
                         <a
                           href="/#"
                           className="btn circle btn-dark border btn-sm"
                         >
-                          <i className="fas fa-chart-bar"></i> Book Now
+                          <i className="fab fa-instagram"></i> View Highlights
                         </a>
-                        <a href="/#">
-                          <i className="fas fa-ticket-alt"></i> 58 Available
-                        </a>
+                        {/* <a href="/#">
+                          <i className="fas fa-ticket-alt"></i> 40 Spots
+                        </a> */}
                       </div>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
-
+            {/* 
             <div className="col-md-6 col-sm-6 equal-height">
               <div className="item">
                 <div className="thumb">

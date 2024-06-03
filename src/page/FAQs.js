@@ -1,15 +1,8 @@
 import React from "react";
+import FaqQuestions from "../component/faqQuestions/FaqQuestions";
 
 const FAQs = () => {
-  return (
-    <div>
-      FAQs
-      <p>
-        Common questions about the association Information on faith-related
-        queries
-      </p>
-    </div>
-  );
+  return <FaqQuestions />;
 };
 
 export default FAQs;
